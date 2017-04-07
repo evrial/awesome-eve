@@ -46,10 +46,14 @@ You can participate in CCP dev and third party dev discussion by [joining Tweetf
 * [Eve Gate Camp Check](http://eve-gatecheck.space/eve/) - Navigation specifically tuned towards kills happening at gates.
 * [EveWho](http://evewho.com) - List members of a corp or alliance from out of game.
 * [SeAT](https://github.com/eveseat/seat) - SeAT is a EVE Online Corporation Management Tool written in PHP.
-* [Eve Incursions](https://eve-incursions.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 * [Eve Overmind](https://www.eveovermind.com)
 * [Timer Calculator](http://timers-in.space/) - calculates structure timers (such as citadel vulnerability windows or POCO/POS reinforcement) from screenshots
 * [Timer Board](https://timerboard.net/)
+
+**PVE**
+
+* [EVE-Survival](http://eve-survival.org/)
+* [Eve Incursions](https://eve-incursions.de/) -  provides an overview of the current incursions, active communities and incursion rat information.
 
 **Wormholes**
 
